@@ -39,4 +39,18 @@
 // ELEMENT AT INDEX 4 IS STRAWBERRY <br>`)
 
 // QUESTION 6
+// const para =document.querySelector("p")
+// const ul = document.querySelector("ul")
+// let items = +prompt("HOW MUCH ITEMS YOU WANT")
+// for (let i=1 ; i<=items ; i++) {
+//     let namesOf = prompt(`ENTER ${i} ITEM`)
+// para.innerHTML =  (`Number of items:${items}`)    
+// ul.innerHTML +=(`<li>${namesOf}</li>`)
+// }
+
+// QUESTION 12
+// let para = document.querySelector ("p")
+// for (let i = 1; i<=20 ; i++) {
+//       para.innerHTML +=(`${5*i} , `)
+// }
 
